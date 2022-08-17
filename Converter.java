@@ -1,3 +1,3 @@
-class Convert {
+class Convert2 {
 	
 }
